@@ -81,13 +81,6 @@ php artisan serve
 
 Isso iniciará o servidor na URL: [http://localhost:8000](http://localhost:8000)
 
-### Passo 6: Dados para o Login
-Use os seguintes dados para realizar o login:
-
-```plaintext
-Email: userteste@gmail.com
-Senha: senha123
-```
 
 ---
 
@@ -110,6 +103,14 @@ npm run serve
 ```
 
 O frontend estará disponível em: [http://localhost:8080](http://localhost:8080)
+
+### Passo 4: Dados para o Login
+Use os seguintes dados para realizar o login:
+
+```plaintext
+Email: userteste@gmail.com
+Senha: senha123
+```
 
 ---
 
