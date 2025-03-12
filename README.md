@@ -99,7 +99,7 @@ npm install
 Agora você pode rodar o frontend em modo de desenvolvimento com o comando:
 
 ```bash
-npm run serve
+npm run dev
 ```
 
 O frontend estará disponível em: [http://localhost:5173](http://localhost:5173)
