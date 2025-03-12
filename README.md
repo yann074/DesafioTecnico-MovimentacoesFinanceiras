@@ -102,7 +102,7 @@ Agora você pode rodar o frontend em modo de desenvolvimento com o comando:
 npm run serve
 ```
 
-O frontend estará disponível em: [http://localhost:8080](http://localhost:8080)
+O frontend estará disponível em: [http://localhost:5173](http://localhost:5173)
 
 ### Passo 4: Dados para o Login
 Use os seguintes dados para realizar o login:
